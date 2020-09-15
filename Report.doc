@@ -1,0 +1,13 @@
+﻿
+Coursera Capstone Project : Predicting car accident severity
+
+
+Business Problem:
+    1. Many people lose their lives while driving either by four wheelers or two wheelers just because they dont take precautions or don’t have information about the weather condition or the road condition or any external factors.
+    2. In some cases the hospitals are not always ready for sudden new patients, so using this predictions we can make the hospitals be prepared for such cases.
+    3. Another problem is traffic officers or any other security services can be alarmed to monitor the locations where more accidents are likely to occur.
+    4. Often people get confused when more number of options are avaliable to travle from source to destinations and in many cases they choose the one with short distance which may not be the safest way to travle.
+
+Hence this project will be predicting the severity of the accidents that are likely to happen which helps to solve the above mentioned common problems.
+       
+
