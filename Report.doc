@@ -20,30 +20,30 @@ The data source for this project : https://s3.us.cloud-object-storage.appdomain.
 The following factors are used to solve this problem:-
 LOCATION : Description of the general location of the collision
 
-SEVERITYCODE  : 1 – Prop Damage
-			 2 – Injury
+SEVERITYCODE  		: 1 – Prop Damage
+         		  2 – Injury
 
-COLLISIONTYPE : Collision type
+COLLISIONTYPE 		: Collision type
 
-PERSONCOUNT   : Total number of people involved in the collision
+PERSONCOUNT   		: Total number of people involved in the collision
 
-PEDCOUNT Double : Total number of pedestrians involved in the collision
+PEDCOUNT Double 	: Total number of pedestrians involved in the collision
 
-PEDCYLCOUNT Double :Total number of bicycles involved in the collision
+PEDCYLCOUNT Double 	:Total number of bicycles involved in the collision
 
-VEHCOUNT Double :Total number of vehicles involved in the collision
+VEHCOUNT Double 	:Total number of vehicles involved in the collision
 
-INJURIES Double :Total number of injurues involved in the collision
+INJURIES Double 	:Total number of injurues involved in the collision
 
-SERIOUSINJURIES Double :Total number of serious injuries involved in the collision
+SERIOUSINJURIES Double  :Total number of serious injuries involved in the collision
 
-FATALITIES Double :Total number of fatalities involved in the collision
+FATALITIES Double 	:Total number of fatalities involved in the collision
 
-INCDATE        :Date of the collision
+INCDATE        		:Date of the collision
 
-INCDTTM        :Time of collision
+INCDTTM        		:Time of collision
 
-WEATHER        :Weather conditions
+WEATHER        		:Weather conditions
 
 ROADCOND		:Road Conditions
 
